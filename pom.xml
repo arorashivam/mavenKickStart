@@ -16,7 +16,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.maventest.App</mainClass>
+                            <mainClass>com.foo.bar.App</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
